@@ -1,3 +1,9 @@
+---
+layout: post
+title: Benchmark list
+permalink: /benchmarks
+---
+
 # 1 Acquisition
 
 ### 1.1 Acquisition

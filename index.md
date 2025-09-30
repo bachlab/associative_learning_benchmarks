@@ -1,4 +1,8 @@
-# Associative Learning Benchmarks
+---
+layout: home
+title: Associative Learning Benchmarks
+permalink: /
+---
 
 In this project, we list benchmark phenomena for associative learning, collated by a team of associative learning researchers in a pre-print manuscript (see contributors there). Here, phenomena are repeatedly observed data patterns in clearly specified procedures. Benchmarks are phenomenon that are sufficiently robust and generalizable to merit evaluating theories in the field in terms of whether they are consistent with it. Benchmarks are graded in terms of importance (AA, A, B, C) according to the criteria outlined below. 
 
@@ -16,4 +20,8 @@ To discuss an entry, or to suggest reconsideration based on additional evidence,
 | C     | Credibly demonstrated several times, but <br> - demonstrated within a laboratory but not across AND/OR <br> - highly specific to procedural details AND/OR <br> - considerable rate of null/opposing findings without clear knowledge of boundary conditions |
 
 
-This github project is maintained by Dominik R. Bach, [University of Bonn, Centre for Artificial Intelligence and Neuroscience](https://www.caian.uni-bonn.de/en/).
+This github project is maintained by 
+
+Dominik R. Bach
+
+[University of Bonn, Centre for Artificial Intelligence and Neuroscience](https://www.caian.uni-bonn.de/en/).
