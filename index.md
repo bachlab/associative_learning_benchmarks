@@ -20,8 +20,10 @@ To discuss an entry, or to suggest reconsideration based on additional evidence,
 | C     | Credibly demonstrated several times, but <br> - demonstrated within a laboratory but not across AND/OR <br> - highly specific to procedural details AND/OR <br> - considerable rate of null/opposing findings without clear knowledge of boundary conditions |
 
 
+<footer>
+  <small>
 This github project is maintained by 
-
 Dominik R. Bach
-
 [University of Bonn, Centre for Artificial Intelligence and Neuroscience](https://www.caian.uni-bonn.de/en/).
+</small>
+</footer>
