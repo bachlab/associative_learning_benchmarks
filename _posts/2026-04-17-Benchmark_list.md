@@ -1,14 +1,8 @@
----
-layout: post
-title: Benchmark list
-permalink: /benchmarks
----
-
 # 1 Acquisition
 
 ### 1.1 Acquisition
 
-Description: After a number of CS–US pairings, the CS elicits a conditioned response (CR) that corresponds to a consistent increase or decrease in magnitude or frequency of an observable behaviour.
+Description: After a number of CS–US pairings, the CS elicits a CR that corresponds to a consistent increase or decrease in the magnitude or frequency of an observable behaviour.
 
 Grade: AA
 
@@ -16,7 +10,7 @@ Domains: universal
 
 ### 1.2 Benefit of spatiotemporal contiguity
 
-Description: CRs are stronger when CS and US are presented close in space and time.
+Description: CRs are stronger when the CS and US are presented close in space and time.
 
 Grade: AA
 
@@ -24,7 +18,7 @@ Domains: universal
 
 ### 1.3 Interstimulus interval (ISI) effects
 
-Description: Strongest CR with relatively short ISIs.
+Description: Strongest CR with relatively short ISIs, with weaker CR at longer or shorter ISIs.
 
 Grade: AA
 
@@ -32,7 +26,7 @@ Domains: universal
 
 ### 1.4 Second-order conditioning
 
-Description: When A–US pairings are followed by B–A pairings, presentation of B generates a CR.
+Description: When A–US pairings are followed by B–A pairings, presentation of B elicits a CR.
 
 Grade: AA
 
@@ -89,7 +83,7 @@ Domains: Eyeblink conditioning with rabbits and ring doves; reward conditioning,
 
 ### 1.11 Sensory preconditioning
 
-Description: When B–A pairings are followed by A–US pairings, presentation of B generates a CR.
+Description: When B–A pairings are followed by A–US pairings, presentation of B elicits a CR.
 
 Grade: A
 
@@ -105,7 +99,7 @@ Domains: Appetitive and aversive Pavlovian conditioning.
 
 ### 1.13 Summation
 
-Description: When two CSs independently trained with the same US are tested in combination, CRs are often greater than those exhibited to either CS individually.
+Description: When two CSs independently trained with the same US are tested in combination, CRs are greater than those elicited by either CS individually.
 
 Grade: A
 
@@ -113,7 +107,7 @@ Domains: Pavlovian conditioning.
 
 ### 1.14 Conditioned diminution and facilitation of the unconditioned response
 
-Description: After acquisition, the response to the US in a CS-US presentation is diminished or facilitated compared to the US not preceded by CS, depending on the setup and species.
+Description: After acquisition, the response to the US in a CS-US presentation is diminished or facilitated compared to the US not preceded by CS, depending on the task, procedure, and species.
 
 Grade: B
 
@@ -121,7 +115,7 @@ Domains: Human aversive classical conditioning (diminution), rabbit eyeblink con
 
 ### 1.15 Imperfect predictors effect
 
-Description: An association CS-US2 is learned more rapidly after training CS-US1 with partial reinforcement rather than full reinforcement.
+Description: A CS-US2 association is learned more rapidly after training CS-US1 with partial reinforcement rather than full reinforcement.
 
 Grade: B
 
@@ -129,7 +123,7 @@ Domains: Domain-general in Pavlovian conditioning  across non-human species wit
 
 ### 1.16 Learned predictiveness effect
 
-Description: After training with compound CS such that one component A always predicts US1 while another component B is sometimes coupled with US1 and sometimes with US2, the association A-US3 will be more rapidly learned than B-US3.
+Description: After training with a compound CS such that one component A always predicts US1 while another component B is sometimes coupled with US1 and sometimes with US2, the association A-US3 will be more rapidly learned than B-US3.
 
 Grade: B
 
@@ -137,7 +131,7 @@ Domains: Mainly human contingency learning, some non-human setups with unknown b
 
 ### 1.17 More intense CSs facilitate acquisition
 
-Description: When CSs are further away from a perceptual baseline (usually more intense), acquisition is faster or the CR asymptote is higher.
+Description: When CSs are further away from a perceptual baseline (usually more intense), acquisition is faster, or the CR asymptote is higher.
 
 Grade: B
 
@@ -161,7 +155,7 @@ Domains: Human predictive learning, Pavlovian conditioning in rats.
 
 ### 1.20 Cue-to-consequence effect
 
-Description: Some combinations of CS and US elicit stronger CR than others.
+Description: Some combinations of CS and US elicit a stronger CR than others.
 
 Grade: B
 
@@ -177,7 +171,7 @@ Domains: Mainly human predictive learning, rat spatial (instrumental) learning.
 
 ### 1.22 Partial reinforcement acquisition effect
 
-Description: Acquisition is slower or the CR asymptote is lower during partial rather than continuous reinforcement.
+Description: Acquisition is slower, or the CR asymptote is lower during partial rather than continuous reinforcement.
 
 Grade: C
 
@@ -233,15 +227,7 @@ Grade: A
 
 Domains: Mainly appetitive instrumental conditioning.
 
-### 2.4 Prototype and exemplar effects in category learning
-
-Description: After training with a set of related CSs, each independently presented with the same US, responding is stronger to trained exemplars than to untrained stimuli of the same category, and stronger to a novel stimulus that represents the average of the trained CS set (the prototype) than to exemplars.
-
-Grade: A
-
-Domains: Mainly appetitive instrumental  conditioning.
-
-### 2.5 External inhibition
+### 2.4 External inhibition
 
 Description: Adding a novel cue B to a trained cue A results in less responding than the trained A by itself.
 
@@ -269,13 +255,45 @@ Domains: universal
 
 ### 3.3 Asymmetry in intensity/magnitude discrimination
 
-Description: When a discrimination (A+, B-) involves stimuli that differ in intensity or magnitude, acquisition is faster when A+ is more intense or greater in magnitude.
+Description: When a discrimination (A+, B-) involves stimuli that differ in intensity or magnitude, acquisition is faster when A+ is more intense or greater in magnitude than B-.
 
 Grade: AA
 
 Domains: universal
 
-### 3.4 Negative patterning
+### 3.4 Simultaneous feature-positive discrimination
+
+Description: Simultaneous presentations of two stimuli paired with a US (AX+), intermixed with presentations of one stimulus with no US (X–), result in stronger responding to the compound (AX) than to the single stimulus (X) alone, and strong responding in the presence of the other stimulus (A).
+
+Grade: AA
+
+Domains: universal
+
+### 3.5 Serial feature-positive discrimination
+
+Description: Serial presentations of two stimuli paired with the US (A->X+), intermixed with presentations of one stimulus with no US (X–), result in stronger responding to the compound (A->X) than to the single stimulus (X) alone, but minimal responding in the presence of the other stimulus (A).
+
+Grade: AA
+
+Domains: universal
+
+### 3.6 Simultaneous feature-negative discrimination
+
+Description: Presentations of one stimulus paired with a US (X+) intermixed with simultaneous presentations of two stimuli without the US (AX–), result in stronger responding to the single stimulus (X) alone than to the compound (AX), while the other stimulus (A) acquires the ability to suppress responding when combined with another stimulus that has been paired with the outcome.
+
+Grade: AA
+
+Domains: universal
+
+### 3.7 Serial feature-negative discrimination
+
+Description: Presentations of one stimulus paired with a US (X+) intermixed with serial presentations of two stimuli without the US (A->X–), result in stronger responding to the single stimulus (X) alone than to the compound (A->X), while the other stimulus (A) acquires the ability to suppress responding when combined with another stimulus that has been paired with the outcome.
+
+Grade: AA
+
+Domains: universal
+
+### 3.8 Negative patterning
 
 Description: After training with intermixed presentations of two individual stimuli followed by an outcome (A+, B+) and a compound of those two stimuli followed by no outcome (AB–), responding to the individual stimuli is stronger than responding to the compound.
 
@@ -283,7 +301,7 @@ Grade: A
 
 Domains: Widely observed but unclear impact of procedural variations.
 
-### 3.5 Positive patterning is easier than negative patterning
+### 3.9 Positive patterning is easier than negative patterning
 
 Description: Given a discrimination in which the compound of two stimuli (AB) leads to a different consequence than the two stimuli individually (A / B), the learner acquires the discrimination faster when the compound predicts the outcome (positive patterning) than when the compound predicts the absence of the outcome (negative patterning).
 
@@ -291,7 +309,7 @@ Grade: A
 
 Domains: Widely observed but unclear impact of procedural variations.
 
-### 3.6 Biconditional discrimination
+### 3.10 Biconditional discrimination
 
 Description: After training with intermixed presentations of stimulus compounds in which no single stimulus signals the presence or absence of the outcome but each compound predicts the presence or absence of the outcome (AB+ / BC– / CD+ / AD–), responding is higher for the compounds that predict the outcome.
 
@@ -299,49 +317,17 @@ Grade: A
 
 Domains: Widely observed but unclear impact of procedural variations.
 
-### 3.7 Biconditional is harder than component discrimination
+### 3.11 Biconditional is harder than component discrimination
 
-Description: Discriminative responding between the outcome-present and outcome-absent trials of a biconditional discrimination (AB+ / BC– / CD+ / AD–) is slower than discriminative responding between the outcome-present and outcome-absent trials of a component discrimination that is matched for complexity but in which single stimuli signal the presence or absence of the outcome (AB+ / BC– / BC– / AD+).
+Description: Discriminative responding between the outcome-present and outcome-absent trials of a biconditional discrimination (AB+ / BC– / CD+ / AD–) is slower than discriminative responding between the outcome-present and outcome-absent trials of a component discrimination that is matched for complexity but in which single stimuli signal the presence or absence of the outcome (AB+ / BC– / CD– / AD+).
 
 Grade: A
 
 Domains: Appetitive Pavlovian and instrumental conditioning, human causal learning.
 
-### 3.8 Simultaneous feature-positive discrimination
+### 3.12 Resistance of occasion setting to feature extinction and conditioning
 
-Description: Simultaneous presentations of two stimuli paired with a US (AX+), intermixed with presentations of one stimulus with no US (X–), result in stronger responding to the compound (AX) than to the single stimulus (X) alone, and strong responding in the presence of the other stimulus (A).
-
-Grade: A
-
-Domains: Observed in multiple procedures across species, but not universal. See the closely related feature discrimination phenomena 3.9-3.11 and 3.16.
-
-### 3.9 Serial feature-positive discrimination
-
-Description: Serial presentations of two stimuli paired with the US (A.
-
-Grade: A
-
-Domains: Appetitive Pavlovian conditioning in pigeons and rats, appetitive instrumental conditioning in rats, rabbit eyeblink conditioning, human conditioned suppression. See the closely related feature discrimination. phenomena 3.8, and 3.10-3.12.
-
-### 3.10 Simultaneous feature-negative discrimination
-
-Description: Presentations of one stimulus paired with a US (X+) intermixed with simultaneous presentations of two stimuli without the US (AX–), result in stronger responding to the single stimulus (X) alone than to the compound (AX), while the other stimulus (A) acquires the ability to suppress responding when combined with another stimulus that has been paired with the outcome.
-
-Grade: A
-
-Domains: Observed in multiple procedures across species, but not universal. See the closely related feature discrimination phenomena 3.9-3.11 and 3.16.
-
-### 3.11 Serial feature-negative discrimination
-
-Description: Presentations of one stimulus paired with a US (X+) intermixed with simultaneous presentations of two stimuli without the US (AX–), result in stronger responding to the single stimulus (X) alone than to the compound (AX), while the other stimulus (A) acquires the ability to suppress responding when combined with another stimulus that has been paired with the outcome.
-
-Grade: A
-
-Domains: Primarily appetitive conditioning. See the closely related feature discrimination phenomena 3.8-3.10 and 3.12.
-
-### 3.12 Resistance of occasion setting to extinction and counterconditioning
-
-Description: After serial feature-positive or feature-negative discrimination, the ability of the feature to disambiguate the target is resistant to extinction and counterconditioning.
+Description: After serial feature-positive or feature-negative discrimination, the ability of the feature to disambiguate the target is resistant to feature extinction and conditioning.
 
 Grade: A
 
@@ -349,7 +335,7 @@ Domains: Appetitive and aversive Pavlovian conditioning in rats. See the closely
 
 ### 3.13 Interference by a common cue in negative patterning
 
-Description: When training with intermixed presentations of two individual stimuli followed by a US (A+, B+) and a compound of those two stimuli followed by no US (AB–), the discrimination is acquired slower when a common stimulus is added to all trials (AX+ / BX+ / ABX–).
+Description: When training with intermixed presentations of two individual stimuli followed by a US (A+, B+) and a compound of those two stimuli followed by no US (AB–), the discrimination is acquired more slowly when a common stimulus is added to all trials (AX+ / BX+ / ABX–).
 
 Grade: B
 
@@ -365,7 +351,7 @@ Domains: rats appetitive Pavlovian  conditioning and human causal learning, bou
 
 ### 3.15 Intra/extradimensional shift effects
 
-Description: After discrimination training with CSs that differ on two perceptual dimensions, one CS predicting the US and another not, a subsequent discrimination with different CSs is facilitated if the previously predictive dimension continues to be predictive and the other one not, rather than the other way around.
+Description: After discrimination training with CSs that differ on two perceptual dimensions, with one dimension predicting the US and the other one not, a subsequent discrimination with different CSs is facilitated if the previously predictive dimension continues to be predictive and the other one not, rather than the other way around.
 
 Grade: B
 
@@ -387,9 +373,9 @@ Grade: C
 
 Domains: Mainly rat conditioned suppression, pigeon and human instrumental conditioning; unclear boundary conditions, and opposing results in humans.
 
-### 3.18 Feature ambiguous occasion setting
+### 3.18 Feature ambiguous discrimination
 
-Description: In serial discriminations, one stimulus (X) can be trained to concurrently serve as the feature in both a feature-negative discrimination (A+ / X…A–) and a feature-positive discrimination (B– / X…B+) when combined with different stimuli (A / B).
+Description: One stimulus (X) can be trained to concurrently serve as the feature in both a feature-negative discrimination (A+ / X…A–) and a feature-positive discrimination (B– / X…B+) when combined with different stimuli (A / B).
 
 Grade: C
 
@@ -429,15 +415,23 @@ Grade: AA
 
 Domains: universal
 
-### 4.5 Protection from extinction
+### 4.5 Contingency degradation
 
-Description: After pairing stimulus A with US, and conditioned inhibition training with stimulus B, presenting AB-noUS compounds leads to a higher CR to A alone, compared to conventional extinction (A-noUS presentations).
+Description: Interspersing unsignalled US presentations during CS-US acquisition reduces the CR.
+
+Grade: AA
+
+Domains: universal
+
+### 4.6 Protection from extinction
+
+Description: After pairing stimulus A with a US, and conditioned inhibition training with stimulus B, presenting AB-noUS compounds leaves a higher CR to A alone, compared to conventional extinction (A-noUS presentations).
 
 Grade: A
 
 Domains: Pavlovian aversive and appetitive conditioning in rats, pigeons, humans.
 
-### 4.6 Partial-reinforcement extinction effect
+### 4.7 Partial-reinforcement extinction effect
 
 Description: Extinction is slower following partial rather than continuous reinforcement.
 
@@ -445,17 +439,9 @@ Grade: A
 
 Domains: Domain-general with short ITI and between-subjects tests.
 
-### 4.7 Contingency degradation
-
-Description: Interspersing unsignalled US presentations during CS-US acquisition reduces the CR.
-
-Grade: A
-
-Domains: Domain-general, across several species including rats, mice, pigeons, and humans; but not demonstrated universally.
-
 ### 4.8 Spontaneous recovery
 
-Description: Presentation of the CS some time after successful extinction partially restores the CR.
+Description: Presentation of the CS some time (usually days) after successful extinction partially restores the CR.
 
 Grade: A
 
@@ -479,7 +465,7 @@ Domains: Across species and domains, but not in all procedures and with unclear 
 
 ### 4.11 Recovery from counterconditioning
 
-Description: After counterconditioning, the initial CR is partially recovered by the passage of time (spontaneous recovery), unsignalled US presentations (reinstatement), or change of context (renewal).
+Description: After counterconditioning, the initial CR partially recovers after the passage of time (spontaneous recovery), unsignalled US presentations (reinstatement), or a change of context (renewal).
 
 Grade: B
 
@@ -511,7 +497,7 @@ Domains: Across species and Pavlvovian as well as instrumental procedures but, b
 
 ### 4.15 Concurrent recovery
 
-Description: After A-US acquisition and A-noUS extinction, B-US acquisition training leads to increased CR to A.
+Description: After A-US acquisition and A-noUS extinction, B-US acquisition training leads to an increased CR to A.
 
 Grade: C
 
@@ -527,7 +513,7 @@ Domains: Appetitive Pavlovian conditioning in rodents, some evidence in aversive
 
 ### 4.17 Secondary extinction
 
-Description: After conditioning with A-US and B-US, extinguishing A also reduces CR to B.
+Description: After conditioning with A-US and B-US, extinguishing A also reduces the CR to B.
 
 Grade: C
 
@@ -569,9 +555,9 @@ Domains: Eyeblink conditioning and lick suppression in rats; autonomic condition
 
 ### 5.4 Extinction resistance of conditioned inhibition
 
-Description: After interspersed A-noUS presentations and B-US pairings, A reduces the CR when paired with a US-predictive C (summation test), and when A is paired with the US, acquisition of the CR is retarded (retardation test).
+Description: Presenting a conditioned inhibitor repeatedly by itself does not diminish the potential of the cue to pass tests for conditioned inhibition.
 
-Grade: B
+Grade: C
 
 Domains: Conditioned suppression in rats, human predictive learning.
 
@@ -583,7 +569,7 @@ Grade: C
 
 Domains: Conditioned suppression in rats.
 
-# 6 Stimulus competition/potentiation
+# 6 Stimulus competition/enhancement
 
 ### 6.1 Overshadowing
 
@@ -603,7 +589,7 @@ Domains: Frequently observed across species and conditioning tasks with well-kno
 
 ### 6.3 Superconditioning
 
-Description: Reinforced AB presentations following inhibitory conditioning of A increase the CR to B as compared with when B is trained in the absence of A.
+Description: Reinforced AB presentations following inhibitory conditioning of A increase the CR to B as compared with when B is trained in the absence of A or A is not a conditioned inhibitor.
 
 Grade: A
 
@@ -627,7 +613,7 @@ Domains: Multiple procedures in multiple species, but only few demonstrations an
 
 ### 6.6 Unblocking by increasing (or decreasing) the US
 
-Description: Increasing (or decreasing) the US during Phase 2 AB training increases responding to the blocked B.
+Description: Increasing (or decreasing) the US intensity or frequency during Phase 2 AB training increases responding to the blocked B.
 
 Grade: B
 
@@ -643,7 +629,7 @@ Domains: Conditioned suppression in rats, contingency judgements in humans.
 
 ### 6.8 Unequal changes in responding by elements as a result of compound pairings (compound conditioning)
 
-Description: Unequal changes in CR to two CSs trained in compound occur when the CSs start with different response potentials.
+Description: Unequal changes in the CR to two CSs trained in compound occur when the CSs start with different response potentials.
 
 Grade: B
 
@@ -659,7 +645,7 @@ Domains: Conditioned suppression in rats; human causal judgement.
 
 ### 6.10 Overshadowing is stronger than external inhibition
 
-Description: Adding a CS to a trained compound of two CS results in a smaller decrease in CR than does removing a CS from the same compound.
+Description: Adding a CS to a trained CS (train A-US, test AB) results in a smaller decrease in the CR than does removing a CS from a trained compound of two CSs (train AB-US, test A).
 
 Grade: B
 
@@ -667,7 +653,7 @@ Domains: Rabbit eyeblink conditioning, rat fear conditioning, human predictive l
 
 ### 6.11 Redundancy effect
 
-Description: Stronger responding to the blocked stimulus B after A-US/AB-US pairings than to an irrelevant stimulus B after AB-US/BC-noUS pairings.
+Description: Stronger responding to the blocked stimulus B after A-US/AB-US interspersed pairings than to an irrelevant stimulus B after AB-US/BC-noUS interspersed pairings.
 
 Grade: B
 
@@ -676,14 +662,6 @@ Domains: Magazine approach in rats, predictive learning in humans.
 ### 6.12 Recovery from forward blocking
 
 Description: Several different post-blocking manipulations result in increased responding to the blocked cue.
-
-Grade: C
-
-Domains: Conditioned suppression in rats.
-
-### 6.13 Recovery from backward blocking
-
-Description: Extinction of the blocker A results in increased responding to the blocked B.
 
 Grade: C
 
