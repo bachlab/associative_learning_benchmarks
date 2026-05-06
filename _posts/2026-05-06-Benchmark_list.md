@@ -54,7 +54,7 @@ Description: Peak of the CR tends to occur near the end of relatively long ISIs.
 
 Grade: A
 
-Domains: Widely observed but not universal, and boundary conditions unclear
+Domains: Widely observed but not universal, and the boundary conditions are unclear.
 
 ### 1.8 Negatively accelerated learning curves
 
@@ -62,7 +62,7 @@ Description: Group-averaged CRs tend towards an asymptote during acquisition.
 
 Grade: A
 
-Domains: Widely observed, but deviations occur, with unclear boundary conditions.
+Domains: Widely observed, but not universal, with unclear boundary conditions.
 
 ### 1.9 Intertrial interval (ITI) and trial spacing effects
 
@@ -70,7 +70,7 @@ Description: CRs are acquired faster and/or are stronger after acquisition when 
 
 Grade: A
 
-Domains: Widely observed across species, but not universal and with unclear boundary conditions.		
+Domains: Widely observed across species, but not universal, and with unclear boundary conditions.	
 
 
 ### 1.10 Scalar invariance in response timing
@@ -79,7 +79,7 @@ Description: The variability of CR timing scales with mean CR timing.
 
 Grade: A
 
-Domains: Eyeblink conditioning with rabbits and ring doves; reward conditioning, with rats and pigeons; conditioned suppression and instrumental (Sidman) avoidance conditioning with rats; aversive conditioning in gold fish.
+Domains: Eyeblink conditioning with rabbits and ring doves; reward conditioning, with rats and pigeons; conditioned suppression and instrumental avoidance conditioning with rats; aversive conditioning in goldfish.
 
 ### 1.11 Sensory preconditioning
 
@@ -87,7 +87,7 @@ Description: When B–A pairings are followed by A–US pairings, presentation o
 
 Grade: A
 
-Domains: Domain- and species-general in Pavlovian conditioning but with circumscribed exceptions.
+Domains: Domain- and species-general in Pavlovian conditioning, but with circumscribed exceptions.
 
 ### 1.12 Pavlovian-instrumental transfer
 
@@ -119,7 +119,7 @@ Description: A CS-US2 association is learned more rapidly after training CS-US1 
 
 Grade: B
 
-Domains: Domain-general in Pavlovian conditioning  across non-human species with unknown boundary conditions.
+Domains: Domain-general in Pavlovian conditioning with rats, with unclear boundary conditions in relation to the learned predictiveness effect (benchmark 1.16).
 
 ### 1.16 Learned predictiveness effect
 
@@ -127,7 +127,7 @@ Description: After training with a compound CS such that one component A always 
 
 Grade: B
 
-Domains: Mainly human contingency learning, some non-human setups with unknown boundary conditions.
+Domains: Mainly human contingency learning, some non-human setups with unknown boundary conditions in relation to the imperfect predictors effect (benchmark 1.15).
 
 ### 1.17 More intense CSs facilitate acquisition
 
@@ -135,7 +135,7 @@ Description: When CSs are further away from a perceptual baseline (usually more 
 
 Grade: B
 
-Domains: Aversive Pavlovian conditioning in several species (rats, rabbits, and humans).
+Domains: Aversive Pavlovian conditioning in several species (rats, rabbits, and humans), but only demonstrated in limited procedures.
 
 ### 1.18 Backward conditioning elicits CRs
 
@@ -299,7 +299,7 @@ Description: After training with intermixed presentations of two individual stim
 
 Grade: A
 
-Domains: Widely observed but unclear impact of procedural variations.
+Domains: Widely observed but unclear impact of implementational variations.
 
 ### 3.9 Positive patterning is easier than negative patterning
 
@@ -307,7 +307,7 @@ Description: Given a discrimination in which the compound of two stimuli (AB) le
 
 Grade: A
 
-Domains: Widely observed but unclear impact of procedural variations.
+Domains: Widely observed but unclear impact of implementational variations.
 
 ### 3.10 Biconditional discrimination
 
@@ -315,7 +315,7 @@ Description: After training with intermixed presentations of stimulus compounds 
 
 Grade: A
 
-Domains: Widely observed but unclear impact of procedural variations.
+Domains: Widely observed but unclear impact of implementational variations.
 
 ### 3.11 Biconditional is harder than component discrimination
 
@@ -331,7 +331,7 @@ Description: After serial feature-positive or feature-negative discrimination, t
 
 Grade: A
 
-Domains: Appetitive and aversive Pavlovian conditioning in rats. See the closely related feature discrimination phenomena 3.9 and 3.11.
+Domains: Most commonly demonstrated in appetitive and aversive Pavlovian conditioning in rats; some demonstration in pigeons and humans.
 
 ### 3.13 Interference by a common cue in negative patterning
 
@@ -347,7 +347,7 @@ Description: Discriminative responding between the US-present and US-absent tria
 
 Grade: B
 
-Domains: rats appetitive Pavlovian  conditioning and human causal learning, boundary conditions include the presence of a common cue and the CS duration.
+Domains: Appetitive Pavlovian conditioning in rats and human causal learning. Boundary conditions include the presence of a common cue and CS duration.
 
 ### 3.15 Intra/extradimensional shift effects
 
@@ -355,7 +355,7 @@ Description: After discrimination training with CSs that differ on two perceptua
 
 Grade: B
 
-Domains: Many species but only demonstrated in narrow experimental procedures mainly involving instrumental learning or pigeon autoshaping.
+Domains: Demonstrated in narrow experimental procedures mainly involving instrumental choice tasks in several species, and autoshaping in pigeons.
 
 ### 3.16 Transfer along a continuum (easy-to-hard effect)
 
@@ -363,7 +363,7 @@ Description: Discrimination training with two CSs that are highly discriminable 
 
 Grade: B
 
-Domains: Instrumental conditioning across species, eyeblink conditioning in rabbits; contradictory results in conditioned taste aversion and unclear boundary conditions.
+Domains: Instrumental conditioning in rats and honeybees, eyeblink conditioning in rabbits; unclear in rat conditioned taste aversion.
 
 ### 3.17 Feature-positive discriminations are easier than feature-negative discriminations
 
@@ -379,7 +379,7 @@ Description: One stimulus (X) can be trained to concurrently serve as the featur
 
 Grade: C
 
-Domains: Rat appetitive (Pavlovian and instrumental) conditioning, only few demonstrations.
+Domains: Rat appetitive (Pavlovian and instrumental) conditioning, pigeon autoshaping.
 
 # 4 Extinction
 
@@ -429,7 +429,7 @@ Description: After pairing stimulus A with a US, and conditioned inhibition trai
 
 Grade: A
 
-Domains: Pavlovian aversive and appetitive conditioning in rats, pigeons, humans.
+Domains: Pavlovian aversive and appetitive conditioning in rats, pigeons, humans
 
 ### 4.7 Partial-reinforcement extinction effect
 
@@ -437,7 +437,7 @@ Description: Extinction is slower following partial rather than continuous reinf
 
 Grade: A
 
-Domains: Domain-general with short ITI and between-subjects tests.
+Domains: Domain- and species-general with short ITI and between-subjects tests.
 
 ### 4.8 Spontaneous recovery
 
@@ -445,7 +445,7 @@ Description: Presentation of the CS some time (usually days) after successful ex
 
 Grade: A
 
-Domains: Domain-general in rodents and humans, but not universal.
+Domains: Pavlovian conditioning in rodents and humans, with partly unknown boundary conditions.
 
 ### 4.9 Reinstatement
 
@@ -453,7 +453,7 @@ Description: After extinction, presentation of the US in the same context partia
 
 Grade: B
 
-Domains: Domain-general across species with a proportion of weak results and partly unknown boundary conditions.
+Domains: Domain-general across species, but with a considerable proportion of weak or negative results, and partly unknown boundary conditions.
 
 ### 4.10 Rapid reacquisition
 
@@ -461,7 +461,7 @@ Description: After CS-US acquisition and CS-noUS extinction, further CS–US pre
 
 Grade: B
 
-Domains: Across species and domains, but not in all procedures and with unclear boundary conditions.
+Domains: Domain-general across species, but not observed in all procedures and with unclear boundary conditions.
 
 ### 4.11 Recovery from counterconditioning
 
@@ -469,7 +469,7 @@ Description: After counterconditioning, the initial CR partially recovers after 
 
 Grade: B
 
-Domains: Across Pavlovian conditioning domains in humans; limited evidence from other species or instrumental conditioning.
+Domains: Widely observed in human appetitive and aversive conditioning in humans; limited evidence from other species or instrumental conditioning.
 
 ### 4.12 Attenuation of renewal by multiple context extinction
 
@@ -485,7 +485,7 @@ Description: After interspersing a specific stimulus during extinction training,
 
 Grade: B
 
-Domains: Rat magazine approach conditioning, human fear conditioning, only few observations but with no opposing results.
+Domains: Rat magazine approach conditioning, human fear conditioning, with only a few observations, but no opposing results.
 
 ### 4.14 AAB renewal
 
@@ -493,7 +493,7 @@ Description: If both CS-US acquisition and extinction take place in context A, t
 
 Grade: B
 
-Domains: Across species and Pavlvovian as well as instrumental procedures but, but robustness variable.
+Domains: Across species and Pavlovian as well as instrumental procedures but with variable robustness.
 
 ### 4.15 Concurrent recovery
 
@@ -535,7 +535,7 @@ Description: After interspersed AB-noUS presentations and B-US pairings, A reduc
 
 Grade: A
 
-Domains: Multiple Pavlovian conditioning domains, but not universal.
+Domains: Multiple Pavlovian conditioning domains (conditioned salivation, conditioned suppression, magazine approach-withdrawal, eye blink), many species (snails, rats, pigeons, dogs, humans). Several implementational boundary conditions.
 
 ### 5.2 Conditioned inhibition/Negative contingency training
 
@@ -543,7 +543,7 @@ Description: After interspersed A-noUS and unsignalled US presentations, A reduc
 
 Grade: A
 
-Domains: Multiple Pavlovian conditioning domains, but small effect size suggests heterogeneity between individuals.
+Domains: Multiple Pavlovian conditioning domains in numerous species and preparations, including rats (conditioned suppression), pigeons (autoshaping), and humans (contingency learning). A small effect size suggests heterogeneity between individuals.
 
 ### 5.3 Conditioned inhibition/Differential conditioning
 
@@ -559,7 +559,7 @@ Description: Presenting a conditioned inhibitor repeatedly by itself does not di
 
 Grade: C
 
-Domains: Conditioned suppression in rats, human predictive learning.
+Domains: Conditioned suppression in rats, human predictive learning, with unclear boundary conditions.
 
 ### 5.5 Retrospective revaluation of conditioned inhibition
 
@@ -593,7 +593,7 @@ Description: Reinforced AB presentations following inhibitory conditioning of A 
 
 Grade: A
 
-Domains: Varied Pavlovian conditioning  procedures and species, but a limited number of demonstrations, and the potential boundary conditions are not known.
+Domains: Varied Pavlovian conditioning species and procedures, including rats (taste aversion, magazine approach, spatial learning, autoshaping), pigeons (autoshaping), and humans (causal learning), with no known null findings. However, there are only a limited number of demonstrations, and the potential boundary conditions are not widely explored.
 
 ### 6.4 Relative validity
 
@@ -601,7 +601,7 @@ Description: The CR to CS A is weaker when training consists of AB-US pairings a
 
 Grade: B
 
-Domains: Conditioned suppression, taste aversion, magazine-approach conditioning (all rats); eyeblink conditioning (rabbits); autoshaping (pigeons) with no systematic investigation of procedural variation.
+Domains: Conditioned suppression, taste aversion, magazine-approach conditioning (all rats); eyeblink conditioning (rabbits); autoshaping (pigeons); and contingency learning (humans);  not widely studied, and no systematic investigation of procedural variation.
 
 ### 6.5 Overexpectation
 
@@ -609,7 +609,7 @@ Description: Reinforced AB presentations following independent reinforced presen
 
 Grade: B
 
-Domains: Multiple procedures in multiple species, but only few demonstrations and negative results.
+Domains: Multiple procedures in multiple species, but only a few demonstrations and some negative results.
 
 ### 6.6 Unblocking by increasing (or decreasing) the US
 
@@ -625,7 +625,7 @@ Description: When AB-US pairings in Phase 1 are followed by A-US pairings in Pha
 
 Grade: B
 
-Domains: Conditioned suppression in rats, contingency judgements in humans.
+Domains: Conditioned suppression in rats, contingency judgements, and causal learning in humans.
 
 ### 6.8 Unequal changes in responding by elements as a result of compound pairings (compound conditioning)
 
@@ -633,7 +633,7 @@ Description: Unequal changes in the CR to two CSs trained in compound occur when
 
 Grade: B
 
-Domains: Conditioned suppression, magazine approach, instrumental learning in rats and pigeons, but only few demonstrations.
+Domains: Conditioned suppression, magazine approach, instrumental learning in rats and pigeons, but only a few demonstrations.
 
 ### 6.9 Recovery from overshadowing
 
@@ -641,7 +641,7 @@ Description: Extinction of the overshadowing cue results in increased responding
 
 Grade: B
 
-Domains: Conditioned suppression in rats; human causal judgement.
+Domains: Conditioned suppression and taste aversion in rats; human causal judgement.
 
 ### 6.10 Overshadowing is stronger than external inhibition
 
@@ -683,7 +683,7 @@ Description: Pre-exposure to a CS followed by CS–US pairings retards the acqui
 
 Grade: A
 
-Domains: Fairly general in several species, but inconsistent or narrower in humans, pigeons, fish, and invertebrates.
+Domains: Fairly general in several species, but inconsistent or narrower in humans, pigeons, fish, and invertebrates
 
 ### 7.3 A change of context disrupts latent inhibition
 
@@ -691,7 +691,7 @@ Description: NA
 
 Grade: A
 
-Domains: Domain-general in Pavlovian  conditioning with partly unknown boundary conditions.
+Domains: Domain-general in Pavlovian conditioning with partly unknown boundary conditions.
 
 ### 7.4 Pre-exposure to a discriminant CS facilitates learning (perceptual learning)
 

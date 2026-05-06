@@ -18,9 +18,11 @@ To discuss an entry, or to suggest reconsideration based on additional evidence,
 | A     | demonstrated across laboratories, highly general within species, reinforcement categories, or conditioned responses, and demonstrated in at least one non-human species |
 | B     | demonstrated across laboratories, but <br> - procedure-specific AND/OR <br> - specific to humans |
 | C     | Credibly demonstrated several times, but <br> - demonstrated within a laboratory but not across AND/OR <br> - highly specific to procedural details AND/OR <br> - considerable rate of null/opposing findings without clear knowledge of boundary conditions |
+|-------|------------------------------------------------------------------------------------------------------|
 
 
-The first version of this list was posted on 30 September 2025. After receiving feedback on the pre-print, an updated list was posted on 21 April 2026. 
+The first version of this list was posted on 30 September 2025. After receiving feedback on the pre-print, an updated list was posted on 6 May 2026. 
+
 ---
 This github project is maintained by 
 Dominik R. Bach
