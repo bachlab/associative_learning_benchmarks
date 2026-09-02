@@ -14,14 +14,14 @@ To discuss an entry, or to suggest reconsideration based on additional evidence,
 
 | Grade | Definition                                                                                           |
 |-------|------------------------------------------------------------------------------------------------------|
-| AA    | demonstrated across laboratories, highly general across species, reinforcement categories, and conditioned responses |
-| A     | demonstrated across laboratories, highly general within species, reinforcement categories, or conditioned responses, and demonstrated in at least one non-human species |
-| B     | demonstrated across laboratories, but <br> - procedure-specific AND/OR <br> - specific to humans |
-| C     | Credibly demonstrated several times, but <br> - demonstrated within a laboratory but not across AND/OR <br> - highly specific to procedural details AND/OR <br> - considerable rate of null/opposing findings without clear knowledge of boundary conditions |
+| AA    | Demonstrated across laboratories, highly general across species, reinforcement categories, and conditioned responses |
+| A     | Demonstrated across laboratories, highly general within species, reinforcement categories, or conditioned responses, and demonstrated in at least one non-human species |
+| B     | Demonstrated across laboratories, but <br> - specific to implementation of the procedure  AND/OR <br> - specific to humans |
+| C     | Credibly demonstrated several times, but <br> - demonstrated within a laboratory but not across AND/OR <br> - highly specific to implementational details AND/OR <br> - considerable rate of null/opposing findings without clear knowledge of implementational boundary conditions |
 |-------|------------------------------------------------------------------------------------------------------|
 
 
-The first version of this list was posted on 30 September 2025. After receiving feedback on the pre-print, an updated list was posted on 6 May 2026. 
+The first version of this list was posted on 30 September 2025. After receiving feedback on the pre-print, an updated list was posted on 6 May 2026.  Minor textual clarifications and corrections were added on 1 September 2026.
 
 ---
 This github project is maintained by 
