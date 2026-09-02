@@ -107,7 +107,7 @@ Domains: Pavlovian conditioning.
 
 ### 1.14 Conditioned diminution and facilitation of the unconditioned response
 
-Description: After acquisition, the response to the US in a CS-US presentation is diminished or facilitated compared to the US not preceded by CS, depending on the task, procedure, and species.
+Description: After acquisition, the response to the US in a CS-US presentation is diminished or facilitated compared to the US not preceded by the CS, depending on the task, procedure, and species.
 
 Grade: B
 
@@ -239,7 +239,7 @@ Domains: Widely observed in Pavlovian and instrumental conditioning but often as
 
 ### 3.1 Differential/discriminative training
 
-Description: After receiving training in which one CS is followed by a US (CS+) and another CS is not followed by a US (CS-), the difference in responding to the two stimuli is greater than if only CS+ were trained and CS- first encountered at test.
+Description: After receiving training in which one CS is followed by a US (CS+) and another CS is not followed by a US (CS-), the difference in responding to the two stimuli is greater than if only CS+ were trained and CS- is first encountered at test.
 
 Grade: AA
 
@@ -279,7 +279,7 @@ Domains: universal
 
 ### 3.6 Simultaneous feature-negative discrimination
 
-Description: Presentations of one stimulus paired with a US (X+) intermixed with simultaneous presentations of two stimuli without the US (AX–), result in stronger responding to the single stimulus (X) alone than to the compound (AX), while the other stimulus (A) acquires the ability to suppress responding when combined with another stimulus that has been paired with the outcome.
+Description: Presentations of one stimulus paired with a US (X+) intermixed with simultaneous presentations of two stimuli without the US (AX–) result in stronger responding to the single stimulus (X) alone than to the compound (AX), while the other stimulus (A) acquires the ability to suppress responding when combined with another stimulus that has been paired with the outcome.
 
 Grade: AA
 
@@ -425,7 +425,7 @@ Domains: universal
 
 ### 4.6 Protection from extinction
 
-Description: After pairing stimulus A with a US, and conditioned inhibition training with stimulus B, presenting AB-noUS compounds leaves a higher CR to A alone, compared to conventional extinction (A-noUS presentations).
+Description: After pairing stimulus A with a US and conditioned inhibition training with stimulus B, presenting AB-noUS compounds leaves a higher CR to A alone, compared to conventional extinction (A-noUS presentations).
 
 Grade: A
 
@@ -531,11 +531,11 @@ Domains: Widely observed but with highly variable results and unclear boundary c
 
 ### 5.1 Conditioned inhibition/Simultaneous feature-negative discrimination
 
-Description: After interspersed AB-noUS presentations and B-US pairings, A reduces the CR when paired with a US-predictive C (summation test), and when A is paired with the US, acquisition of a CR is retarded (retardation test).
+Description: After interspersed AB-noUS presentations and B-US pairings, A reduces the CR when paired with a US-predictive C (summation test), and when A is paired with the US, acquisition of a CR is retarded such that more A-US pairings are required to obtain a CR to A (retardation test).
 
 Grade: A
 
-Domains: Multiple Pavlovian conditioning domains (conditioned salivation, conditioned suppression, magazine approach-withdrawal, eye blink), many species (snails, rats, pigeons, dogs, humans). Several implementational boundary conditions.
+Domains: Observed in multiple Pavlovian conditioning domains (e.g., conditioned salivation, conditioned suppression, magazine approach-withdrawal, eye blink, galvanic skin conductance), across many species (snails, rats, pigeons, dogs, humans). However, there are several suspected but imprecisely defined boundary conditions.
 
 ### 5.2 Conditioned inhibition/Negative contingency training
 
@@ -573,7 +573,7 @@ Domains: Conditioned suppression in rats.
 
 ### 6.1 Overshadowing
 
-Description: Conditioning to the compound AB results in a weaker CR to B than is attained with B–US pairings.
+Description: Compound AB-US pairings result in a weaker CR to B than is attained with equivalent B–US pairings.
 
 Grade: A
 
@@ -581,7 +581,7 @@ Domains: Several Pavlovian conditioning tasks across domains and species with we
 
 ### 6.2 Forward blocking
 
-Description: Conditioning to a compound AB results in weaker  conditioning to B when the former is preceded by conditioning to A than when it is not.
+Description: Compound AB-US pairings result in weaker CR to B when the AB-US trials are preceded by A-US conditioning trials than when they are not.
 
 Grade: A
 
@@ -589,7 +589,7 @@ Domains: Frequently observed across species and conditioning tasks with well-kno
 
 ### 6.3 Superconditioning
 
-Description: Reinforced AB presentations following inhibitory conditioning of A increase the CR to B as compared with when B is trained in the absence of A or A is not a conditioned inhibitor.
+Description: Reinforced AB presentations following inhibitory conditioning of A increase the CR to B  compared with when B is trained in the absence of A or A is not a conditioned inhibitor.
 
 Grade: A
 
@@ -633,7 +633,7 @@ Description: Unequal changes in the CR to two CSs trained in compound occur when
 
 Grade: B
 
-Domains: Conditioned suppression, magazine approach, instrumental learning in rats and pigeons, but only a few demonstrations.
+Domains: Conditioned suppression, magazine approach, instrumental learning in rats and pigeons, and human predictive learning, but only a few demonstrations of any of these.
 
 ### 6.9 Recovery from overshadowing
 
@@ -667,7 +667,13 @@ Grade: C
 
 Domains: Conditioned suppression in rats.
 
-# 7 CS/US preexposure effects
+### NA NA
+
+Description: NA
+
+Grade: NA
+
+Domains: NA
 
 ### 7.1 US pre-exposure effect
 
@@ -725,7 +731,7 @@ Grade: B
 
 Domains: Robust across species, but with a limited range of Pavlovian  procedures.
 
-### 7.8 Following CS-pre-exposure and conditioning, a long relative to a short delay before testing decreases CRs (super latent inhibition)
+### 7.8 Following CS-pre-exposure and conditioning, a long delay relative to a short delay before testing decreases CRs (super latent inhibition)
 
 Description: NA
 
