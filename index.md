@@ -21,7 +21,7 @@ To discuss an entry, or to suggest reconsideration based on additional evidence,
 |-------|------------------------------------------------------------------------------------------------------|
 
 
-The first version of this list was posted on 30 September 2025. After receiving feedback on the pre-print, an updated list was posted on 6 May 2026.  Minor textual clarifications and corrections were added on 1 September 2026.
+The first version of this list was posted on 30 September 2025. After receiving feedback on the pre-print, an updated list was posted on 6 May 2026.  Minor textual clarifications and corrections were added on 1 September 2026 and 14 October 2026.
 
 ---
 This github project is maintained by 
